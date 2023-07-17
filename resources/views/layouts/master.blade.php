@@ -17,11 +17,15 @@
     <link rel="stylesheet" href="assets/css/jquery.fancybox.min.css">
     <!-- custom css  -->
     <link rel="stylesheet" href="style.css">
+
 </head>
 <body class="body-fixed">
+<div>
+     @yield('nav')
+</div>
 
+         @yield('section_1')
 
-    @yield('nav')
 
 
 
@@ -54,8 +58,8 @@
     <!-- scroll to plugin  -->
     <script src="assets/js/ScrollToPlugin.min.js"></script>
     <!-- rellax  -->
-    <!-- <script src="assets/js/rellax.min.js"></script> -->
-    <!-- <script src="assets/js/rellax-custom.js"></script> -->
+    <script src="assets/js/rellax.min.js"></script>
+    <script src="assets/js/rellax-custom.js"></script>
     <!-- smooth scroll  -->
     <script src="assets/js/smooth-scroll.js"></script>
     <!-- custom js  -->

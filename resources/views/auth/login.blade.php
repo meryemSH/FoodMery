@@ -1,4 +1,4 @@
-<x-guest-layout>
+{{-- <x-guest-layout>
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
 
@@ -50,4 +50,4 @@
         {{ __("Don't have an account? Create it") }}
     </a>
     </form>
-</x-guest-layout>
+</x-guest-layout> --}}
