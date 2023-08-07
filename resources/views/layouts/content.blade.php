@@ -15,9 +15,9 @@
                         <div class="col-lg-6">
                             <div class="banner-text">
                                 <h1 class="h1-title">
-                                    Welcome to 
+                                    Welcome to
                                     <span>MeryFood</span>
-                                    
+
                                 </h1>
                                 <p>This is Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam eius
                                     vel tempore consectetur nesciunt? Nam eius tenetur recusandae optio aperiam.</p>
@@ -541,6 +541,9 @@
             </div>
 
         </section>
+
+
+        
 
         <section class="our-team section">
             <div class="sec-wp">

@@ -20,6 +20,12 @@
 </head>
 
 <body class="body-fixed">
+
+
+
+
+
+<div class="overlay" data-overlay></div>
     <!-- start of header  -->
     <header class="site-header">
         <div class="container">
@@ -51,7 +57,7 @@
                                     <i class="uil uil-search"></i>
                                 </button>
                             </form>
-                            
+
                             <a href="{{route('login')}}" class="header-btn">
                                 <i class="uil uil-user-md"></i>
                             </a>
@@ -1134,7 +1140,7 @@
 
 
 
-    
+
 
 
 
